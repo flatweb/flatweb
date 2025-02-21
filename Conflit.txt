@@ -11,7 +11,7 @@ var resSapin3 = load("res://Ressources/Environnement/Arbre_3.png")
 var resSapins = [resSapin1, resSapin3]
 
 # rochers génériques
-const NBROCHERS = 140
+const NBROCHERS = 180
 const RocherScene = preload("res://paper_rocher.tscn")
 var resRocher1 = preload("res://Ressources/Environnement/Rochers_1.png")
 var resRocher2 = preload("res://Ressources/Environnement/Rochers_2.png")
@@ -20,6 +20,6 @@ var resRochers = [resRocher1, resRocher2, resRocher3, resRocher4]
 
 const BucheScene = preload("res://paper_buche.tscn")
 
-const NBHACHES = 8
+const NBHACHES = 12
 const HacheScene = preload("res://hache.tscn")
 
