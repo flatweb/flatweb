@@ -1,6 +1,6 @@
 extends Node3D
 
-const NBBUCHES = 30 # creation conflit
+const NBBUCHES = 30 # modification
 
 # Sapins générique
 const NBSAPINS = 100
